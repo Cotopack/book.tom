@@ -1,0 +1,31 @@
+<html>
+    
+    <head>  
+        <title>Книга Том Сойєр</title>
+    </head>
+    <body style="background-color:violet;">
+        <header>
+            <h1>Книжка:Том Сойєр</h1>
+        </header>
+        <main>
+            <img src="https://drive.google.com/uc?export=view&id=1FsG-RyXw1x4TXNH2-ZadenlGuHrkS4u8" width="300px" height="300px">
+            <p style="font-size:24px">200грн</p>
+             <table style="color:green;">
+                <tr style="color:green;">
+                    <td>Том Сойєр</td>
+                    <td>200грн</td>
+                        <td><img src="https://drive.google.com/uc?export=view&id=1FsG-RyXw1x4TXNH2-ZadenlGuHrkS4u8" width="50px" height="50px"></td>
+                 </tr>
+                 <tr>
+                    <td>Том Сойєр</td>
+                    <td>200грн</td>
+                        <td><img src="https://drive.google.com/uc?export=view&id=1FsG-RyXw1x4TXNH2-ZadenlGuHrkS4u8" width="300px" height="300px"></td>
+                 </tr>
+            </table>
+
+             <img src="https://drive.google.com/uc?export=view&id=">
+        </main>
+        <footer></footer>
+
+    </body>
+</html>
